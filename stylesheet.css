@@ -4,6 +4,13 @@
   color: white;
 }
 
+#discord {
+  z-index: -5;
+  width: 270px;
+  float: right;
+  padding-right: 15px;
+}
+
 #links {
   color: #BDC3C7;
   font-family: "Arial", serif;
