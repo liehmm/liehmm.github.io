@@ -1,0 +1,37 @@
+#songList {
+  font-family: "Arial", serif;
+  font-size: 15px;
+  color: white;
+}
+
+#links {
+  color: #BDC3C7;
+  font-family: "Arial", serif;
+  font-size: 10px;
+}
+
+#names {
+  font-family: "Arial", serif;
+  font-size: 15px;
+  color: white;
+}
+
+#seperator {
+  color: white;
+  width: 100%;
+  font-size: 8.7px;
+}
+
+#length {
+  font-size: 14px;
+}
+
+h2 {
+  font-family: "Arial", serif;
+  font-size: 22px;
+  color: white;
+}
+
+body {
+  background-color: #141414;
+}
